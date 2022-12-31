@@ -1,5 +1,4 @@
 import { useFormik } from "formik";
-// import { onsubmit } from "./moviesList";
 const AddMovies = (props) => {
   const formik = useFormik({
     initialValues: {
