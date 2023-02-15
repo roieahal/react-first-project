@@ -30,7 +30,7 @@ class Toper extends Component {
           </div>
         </Link>
         <div>
-          select number of pages
+          select number of movies in page
           <input type="number" onKeyPress={(ev) => this.props.divide(ev)} />
         </div>
       </div>
