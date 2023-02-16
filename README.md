@@ -1,4 +1,4 @@
-#moviey app
+# moviey app
 my first experience with react
 
 # Getting Started with Create React App
